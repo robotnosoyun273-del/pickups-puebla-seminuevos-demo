@@ -63,11 +63,6 @@ export const Hero: React.FC = () => {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 sm:pt-24 pb-28 sm:pb-36">
         <div className="max-w-3xl space-y-6">
 
-          {/* Eyebrow badge with orange touch */}
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-orange-500/10 border border-orange-500/30 text-orange-400 text-xs font-bold uppercase tracking-wider">
-            <span className="w-2 h-2 rounded-full bg-[#EA580C] animate-pulse"></span>
-            <span>Camionetas &amp; Seminuevos Garantizados en Puebla</span>
-          </div>
 
           {/* Punchy Headline (Ref 2 Style) */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white leading-[1.08] uppercase drop-shadow-md">
